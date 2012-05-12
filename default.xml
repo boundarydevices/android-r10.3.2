@@ -183,13 +183,13 @@
   <project path="prebuilt" name="android_prebuilt_imx.git" remote="boundary-github" />
   <project path="system/core" name="android_system_core.git" remote="boundary-github" />
   <project path="system/dispd" name="android_system_dispd.git" remote="boundary-github" />
-  <project path="system/extras" name="android_system_extras.git" remote="boundary-github" />
+  <project path="system/extras" name="android-system-extras.git" remote="boundary-github" />
   <project path="system/netd" name="android_system_netd.git" remote="boundary-github" />
   <project path="system/vold" name="android_system_vold.git" remote="boundary-github" />
 
-  <project path="device/fsl" name="device_fsl.git" remote="boundary" />
-  <project path="external/linux-firmware-imx" name="linux-firmware-imx.git" remote="boundary" />
-  <project path="hardware/mx5x" name="hardware_mx5x.git" remote="boundary" />
+  <project path="device/fsl" name="device_fsl.git" remote="boundary-linode" />
+  <project path="external/linux-firmware-imx" name="linux-firmware-imx.git" remote="boundary-linode" />
+  <project path="hardware/mx5x" name="hardware_mx5x.git" remote="boundary-linode" />
   <project path="kernel_imx" name="linux.git" remote="boundary-github" revision="boundary-imx-android-r10.3.2" />
   <project path="bootable/bootloader/uboot-imx" name="u-boot-2009-08.git" remote="boundary-github" revision="boundary20101115_updated_machtypes" />
 </manifest>
