@@ -186,6 +186,7 @@
   <project path="system/extras" name="android-system-extras.git" remote="boundary-github" />
   <project path="system/netd" name="android_system_netd.git" remote="boundary-github" />
   <project path="system/vold" name="android_system_vold.git" remote="boundary-github" />
+  <project path="external/imx-utils" name="imx-utils" remote="boundary-github" />
 
   <project path="device/fsl" name="device_fsl.git" remote="boundary-linode" />
   <project path="external/linux-firmware-imx" name="linux-firmware-imx.git" remote="boundary-linode" />
