@@ -159,7 +159,7 @@
   <project path="external/dhcpcd" name="android_external_dhcpcd.git" remote="boundary-github" />
   <project path="external/e2fsprogs" name="android_external_e2fsprogs.git" remote="boundary-github" />
   <project path="external/genext2fs" name="android_external_genext2fs.git" remote="boundary-github" />
-  <project path="external/hostapd-0.6.8" name="android_external_hostapd.git" remote="boundary-github" />
+  <project path="external/hostapd-0.6.9" name="hostapd-0.6.9.git" remote="boundary-github" revision="master" />
   <project path="external/linux-lib" name="android_external_linux-lib.git" remote="boundary-github" />
   <project path="external/mtd-utils" name="android_external_mtd-utils.git" remote="boundary-github" />
   <project path="external/ppp" name="android_external_ppp.git" remote="boundary-github" />
