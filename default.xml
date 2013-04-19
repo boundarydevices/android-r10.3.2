@@ -3,7 +3,7 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com/" />
   <remote  name="boundary-linode"
-	   fetch="git://linode.boundarydevices.com/boundary-imx-android-r10.3.2/" />
+	   fetch="ssh://git@linode.boundarydevices.com/boundary-imx-android-r10.3.2/" />
   <remote  name="boundary-github"
            fetch="git://github.com/boundarydevices/" />
   <remote  name="github"
